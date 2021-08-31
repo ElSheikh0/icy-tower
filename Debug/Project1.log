@@ -1,0 +1,285 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(91,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(98,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(99,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(108,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(109,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(118,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(119,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(129,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(130,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(139,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(140,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(148,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(172,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(182,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(192,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(201,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(233,41): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(234,42): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(297,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(297,32): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(364,17): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(385,17): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(415,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(311,8): warning C4101: 'event': unreferenced local variable
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(574,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(615,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(616,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(653,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(665,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(667,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(670,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(685,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(700,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(708,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(718,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(752,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(753,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(754,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(755,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(756,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(757,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(758,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(769,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(784,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(793,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(794,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(795,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(811,35): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(822,32): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(828,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(833,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(843,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(883,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(900,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(902,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(955,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1001,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1018,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1060,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1153,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1162,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1172,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1181,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1248,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1258,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1267,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1277,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1294,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1305,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1317,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1318,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1319,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1320,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1321,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1323,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1334,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1335,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1336,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1337,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1338,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1340,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1350,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1379,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1389,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1398,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1408,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1443,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1480,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1490,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1500,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1509,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1563,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1592,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1595,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1693,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1693,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1697,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1705,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1774,21): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1780,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1781,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1792,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1805,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1805,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1807,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1807,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1813,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1813,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1815,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1815,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1820,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1820,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1822,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1822,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1826,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1826,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1828,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1828,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1851,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1851,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1860,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1864,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1865,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1866,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1867,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohamed\source\repos\Project1\Source.cpp(1932,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Mohamed\source\repos\Project1\Debug\Project1icy.exe
